@@ -140,7 +140,7 @@ Auto Scaling automatically adjusts the number of EC2 instances in your applicati
 
 ## Connect With Me
 
-📝 [LinkedIn Post](your-linkedin-post-link)
+📝 [LinkedIn Post]([your-linkedin-post-lin](https://www.linkedin.com/posts/tanisha-kushwah-280944284_aws-devops-cloudengineering-activity-7411019541679407104-AYrC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEUxzIABU128FSo6qOVnpN9hGJW56_GeEqY))
 
 ---
 
