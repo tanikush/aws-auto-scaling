@@ -63,7 +63,7 @@ CloudWatch Monitors → Alarm Triggers → Auto Scaling Acts → ELB Distributes
 2. **Trigger** - Threshold breach → Alarm fires
 3. **Scale** - Add/Remove instances automatically
 4. **Distribute** - Load Balancer routes traffic to healthy instances
-
+   
 ---
 
 ## 💡 Key Learnings
